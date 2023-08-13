@@ -1,6 +1,5 @@
 <script setup>
 import { ref, onMounted, onBeforeUnmount } from 'vue';
-// import Chart from 'chart.js';
   
 const chartCanvas = ref(null);
   
